@@ -26,6 +26,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Development\workspace\in28minutes\microservices\cloud-config-server-repo\qa" />
+      <recent name="C:\Development\workspace\in28minutes\microservices\cloud-config-server-repo\dev" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Development\workspace\in28minutes\microservices\cloud-config-server-repo" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
