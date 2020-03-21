@@ -1,11 +1,9 @@
-limits-service:
-  minimum: 8
-  maximum: 888
-
 management:
-#  security:
-#    enabled: false
   endpoints:
     web:
       exposure:
         include: *
+
+limits-service:
+  minimum: 8
+  maximum: 888
